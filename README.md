@@ -1,6 +1,6 @@
-<h1 align="center">🚀 Olá, eu sou Yanni Nadur!</h1>
-<p align="center">
-  <i>Web Developer | Especialista em WordPress & Desenvolvimento Front-end</i>
+<h1 align="left">Yanni Nadur</h1>
+<p align="left">
+  <i>Full Stack Engineer | React, Node.js, PHP | Next.js, Laravel, AWS, Docker | Web Apps & UI/UX Specialist</i>
 </p>
 
 <p align="center">
@@ -9,27 +9,30 @@
 
 ---
 
-## 🔹 Sobre mim  
+## About Me  
 
-💻 Sou um **desenvolvedor web** com experiência desde **2019**, apaixonado por criar **experiências digitais eficientes, responsivas e otimizadas para SEO**.  
-🎯 Minha especialidade está no **desenvolvimento WordPress**, incluindo temas e plugins personalizados, além de **ReactJS e Node.js** para aplicações mais dinâmicas.  
-📍 Tenho experiência trabalhando com empresas do **Brasil e do exterior** e sempre busco oportunidades **remotas** para expandir meus horizontes.  
-⚡ Valorizo código limpo, **boas práticas** de desenvolvimento e soluções bem arquitetadas.  
+I am a **Fullstack Developer** with experience since **2019**, passionate about building **efficient, responsive, and SEO-optimized web solutions**.  
+My expertise includes **modern web development** using **ReactJS, Node.js, and PHP**, along with CMS platforms like **Craft CMS, Strapi, and WordPress**.  
+I have worked with companies from **Brazil and abroad**, delivering high-quality web applications and solutions.  
+I focus on **clean code, best practices, performance optimization, and user-friendly experiences**.  
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas  
+## Technologies & Tools  
 
-### 📌 Principais stacks:
+### Core Stack:
 - **Front-end:** ReactJS, JavaScript (ES6+), HTML5, CSS3 (Sass, Tailwind)
-- **Back-end:** Node.js, PHP, Express.js, WordPress (Temas & Plugins customizados)
-- **Banco de dados:** MySQL
-- **DevOps & Ferramentas:** Docker, Git, CI/CD
-- **Otimização:** SEO, Performance Web, Responsividade  
+- **Back-end:** Node.js, PHP, Express.js
+- **CMS Expertise:** Craft CMS, Strapi, WordPress (Custom Themes & Plugins)
+- **Database:** MySQL, PostgreSQL
+- **DevOps & Tools:** Docker, Git, CI/CD
+- **Performance & SEO:** Web Optimization, Accessibility, SEO Best Practices  
 
-### 📌 Tecnologias adicionais:
+### Additional Technologies:
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Craft%20CMS-ED1C24?style=for-the-badge&logo=craftcms&logoColor=white" />
+  <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -38,24 +41,20 @@
 
 ---
 
-## 📌 O que me diferencia?  
+## What Sets Me Apart  
 
-✔️ **Solução completa**: Do design ao código final, desenvolvo sites e sistemas otimizados, alinhados às necessidades do cliente.  
-✔️ **WordPress sob medida**: Criação de **temas e plugins personalizados** para maior flexibilidade e desempenho.  
-✔️ **Foco em performance**: Implementação de **boas práticas de SEO, acessibilidade e otimização de velocidade**.  
-✔️ **Integrações inteligentes**: Conexão com APIs e ferramentas para expandir funcionalidades e automação.  
-✔️ **Trabalho com equipes internacionais**: Adaptação a diferentes culturas e metodologias ágeis.  
+- **End-to-End Development:** From design to deployment, I deliver fully optimized web solutions tailored to client needs.  
+- **CMS Customization:** Expertise in developing **custom themes and plugins** for Craft CMS, Strapi, and WordPress.  
+- **Performance-Oriented:** Implementation of **SEO, accessibility, and web performance best practices**.  
+- **API Integrations:** Seamless integrations with third-party services to extend functionalities and automation.  
+- **International Experience:** Comfortable working with global teams and adapting to different work methodologies.  
 
 ---
 
-## 📈 Estatísticas  
+## GitHub Statistics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yanni-nadur&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanni-nadur&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanni-nadur&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 <p align="center">
@@ -64,29 +63,21 @@
 
 ---
 
-## 🎯 Últimos projetos  
+## Recent Projects  
 
-🔹 **Shiorin - Chatbot com IA**  
-_Desenvolvimento de uma ferramenta personalizada baseada em inteligência artificial para interação com usuários._  
-🔹 **Websites otimizados com WordPress**  
-_Criação de sites personalizados, desde landing pages até e-commerces completos._  
-🔹 **Integrações de APIs**  
-_Soluções personalizadas para conectar sistemas e automatizar processos._  
-
-📌 **Veja mais projetos no meu repositório**: [GitHub Repos](https://github.com/yanni-nadur)  
+- **Shiorin - AI Chatbot**  
+  Development of a custom AI-based tool for user interaction.  
 
 ---
 
-## 📬 Vamos conversar?  
+## Let's Connect  
 
-📧 **E-mail**: [yanninadur@gmail.com](mailto:yanninadur@gmail.com)  
-💼 **LinkedIn**: [linkedin.com/in/yanninaxim](https://linkedin.com/in/yanninaxim)  
-🌎 **Portfólio**: [yanni-nadur.github.io/portfolio/](https://yanni-nadur.github.io/portfolio/)  
-
-⭐ Se você gostou do meu trabalho, não esqueça de dar um **star** nos repositórios!  
+- **Email:** [yanninadur@gmail.com](mailto:yanninadur@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/yanninaxim](https://linkedin.com/in/yanninaxim)  
+- **Portfolio:** [yanni-nadur.github.io/portfolio/](https://yanni-nadur.github.io/portfolio/)  
 
 ---
 
 <p align="center">
-  <i>"Sempre aprendendo, sempre evoluindo. Construindo a web um código de cada vez."</i>
+  <i>"Always learning, always evolving. Building the web one line of code at a time."</i>
 </p>
