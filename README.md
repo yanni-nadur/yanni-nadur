@@ -1,7 +1,7 @@
 <h1 align="left">Yanni Nadur</h1>
 
 <p align="left">
-  <i>Full Stack Engineer | React, Node.js, PHP | Next.js, Laravel, AWS, Docker | Web Apps & UI/UX Specialist</i>
+  <i>Full Stack Engineer | React.js | Node.js | Next.js | PHP | Laravel | AWS | Docker | Web Apps & UI/UX Specialist</i>
 </p>
 
 
