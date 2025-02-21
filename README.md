@@ -33,16 +33,6 @@ I focus on **clean code, best practices, performance optimization, and user-frie
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-
-## What Sets Me Apart  
-
-- **End-to-End Development:** From design to deployment, I deliver fully optimized web solutions tailored to client needs.  
-- **CMS Customization:** Expertise in developing **custom themes and plugins** for Craft CMS, Strapi, and WordPress.  
-- **Performance-Oriented:** Implementation of **SEO, accessibility, and web performance best practices**.  
-- **API Integrations:** Seamless integrations with third-party services to extend functionalities and automation.  
-- **International Experience:** Comfortable working with global teams and adapting to different work methodologies.  
-
-
 ## GitHub Statistics  
 
 <p align="center">
@@ -53,6 +43,14 @@ I focus on **clean code, best practices, performance optimization, and user-frie
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanni-nadur&theme=radical" alt="Streak Stats" />
 </p>
 
+
+## What Sets Me Apart  
+
+- **End-to-End Development:** From design to deployment, I deliver fully optimized web solutions tailored to client needs.  
+- **CMS Customization:** Expertise in developing **custom themes and plugins** for Craft CMS, Strapi, and WordPress.  
+- **Performance-Oriented:** Implementation of **SEO, accessibility, and web performance best practices**.  
+- **API Integrations:** Seamless integrations with third-party services to extend functionalities and automation.  
+- **International Experience:** Comfortable working with global teams and adapting to different work methodologies.  
 
 ## Recent Projects  
 
