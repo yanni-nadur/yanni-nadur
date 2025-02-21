@@ -1,9 +1,8 @@
-<h1 align="left">Yanni Nadur</h1>
+<!-- <h1 align="left">Yanni Nadur</h1>
 
 <p align="left">
   <i>Full Stack Engineer | React.js | Node.js | Next.js | PHP | Laravel | AWS | Docker | Web Apps & UI/UX Specialist</i>
-</p>
-
+</p> -->
 
 ## About Me  
 
