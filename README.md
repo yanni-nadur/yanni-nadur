@@ -12,8 +12,6 @@ My expertise includes **modern web development** using **ReactJS, Node.js, and P
 I have worked with companies from **Brazil and abroad**, delivering high-quality web applications and solutions.  
 I focus on **clean code, best practices, performance optimization, and user-friendly experiences**.  
 
-
-
 ## Technologies & Tools  
 
 ### Core Stack:
@@ -61,10 +59,4 @@ I focus on **clean code, best practices, performance optimization, and user-frie
 - **Shiorin - AI Chatbot**  
   Development of a custom AI-based tool for user interaction.  
 
-
-## Let's Connect  
-
-- **Email:** [yanninadur@gmail.com](mailto:yanninadur@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/yanninaxim](https://linkedin.com/in/yanninaxim)  
-- **Portfolio:** [yanni-nadur.github.io/portfolio/](https://yanni-nadur.github.io/portfolio/)  
 
