@@ -1,10 +1,7 @@
 <h1 align="left">Yanni Nadur</h1>
+
 <p align="left">
   <i>Full Stack Engineer | React, Node.js, PHP | Next.js, Laravel, AWS, Docker | Web Apps & UI/UX Specialist</i>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yanni-nadur&theme=radical" alt="GitHub Profile Trophy" />
 </p>
 
 ---
