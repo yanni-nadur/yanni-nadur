@@ -4,7 +4,6 @@
   <i>Full Stack Engineer | React, Node.js, PHP | Next.js, Laravel, AWS, Docker | Web Apps & UI/UX Specialist</i>
 </p>
 
----
 
 ## About Me  
 
@@ -13,7 +12,6 @@ My expertise includes **modern web development** using **ReactJS, Node.js, and P
 I have worked with companies from **Brazil and abroad**, delivering high-quality web applications and solutions.  
 I focus on **clean code, best practices, performance optimization, and user-friendly experiences**.  
 
----
 
 ## Technologies & Tools  
 
@@ -36,7 +34,6 @@ I focus on **clean code, best practices, performance optimization, and user-frie
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
----
 
 ## What Sets Me Apart  
 
@@ -46,7 +43,6 @@ I focus on **clean code, best practices, performance optimization, and user-frie
 - **API Integrations:** Seamless integrations with third-party services to extend functionalities and automation.  
 - **International Experience:** Comfortable working with global teams and adapting to different work methodologies.  
 
----
 
 ## GitHub Statistics  
 
@@ -58,14 +54,12 @@ I focus on **clean code, best practices, performance optimization, and user-frie
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanni-nadur&theme=radical" alt="Streak Stats" />
 </p>
 
----
 
 ## Recent Projects  
 
 - **Shiorin - AI Chatbot**  
   Development of a custom AI-based tool for user interaction.  
 
----
 
 ## Let's Connect  
 
@@ -73,8 +67,3 @@ I focus on **clean code, best practices, performance optimization, and user-frie
 - **LinkedIn:** [linkedin.com/in/yanninaxim](https://linkedin.com/in/yanninaxim)  
 - **Portfolio:** [yanni-nadur.github.io/portfolio/](https://yanni-nadur.github.io/portfolio/)  
 
----
-
-<p align="center">
-  <i>"Always learning, always evolving. Building the web one line of code at a time."</i>
-</p>
