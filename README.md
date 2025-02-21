@@ -47,7 +47,9 @@ I focus on **clean code, best practices, performance optimization, and user-frie
 
 ## GitHub Statistics  
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanni-nadur&theme=radical)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanni-nadur&theme=radical" alt="Vercel">
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanni-nadur&layout=compact&theme=radical" alt="Most Used Languages" />
