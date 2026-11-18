@@ -38,13 +38,17 @@ ASP.NET Core, Entity Framework Core and REST APIs are part of that same work.
   <img src="https://skillicons.dev/icons?i=svelte&amp;theme=dark" width="48" height="48" alt="Svelte" />
   <img src="./assets/icons/preact.svg" width="48" height="48" alt="Preact" />
   <img src="https://skillicons.dev/icons?i=deno&amp;theme=dark" width="48" height="48" alt="Deno" />
+  <img src="https://skillicons.dev/icons?i=java&amp;theme=dark" width="48" height="48" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=spring&amp;theme=dark" width="48" height="48" alt="Spring" />
+  <img src="https://skillicons.dev/icons?i=kafka&amp;theme=dark" width="48" height="48" alt="Kafka" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq&amp;theme=dark" width="48" height="48" alt="RabbitMQ" />
   <img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" width="48" height="48" alt="AWS" />
   <img src="https://skillicons.dev/icons?i=supabase&amp;theme=dark" width="48" height="48" alt="Supabase" />
   <img src="https://skillicons.dev/icons?i=mysql&amp;theme=dark" width="48" height="48" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=githubactions&amp;theme=dark" width="48" height="48" alt="GitHub Actions" />
 </p>
 
-`Angular` · `Svelte` · `Preact` · `Deno` · `AWS` · `Supabase` · `MySQL` · `GitHub Actions`
+`Angular` · `Svelte` · `Preact` · `Deno` · `Java` · `Spring` · `Kafka` · `RabbitMQ` · `AWS` · `Supabase` · `MySQL` · `GitHub Actions`
 
 Fastify, SQL Server, Git, Stripe and OpenAI / OpenRouter show up in the same projects.
 
