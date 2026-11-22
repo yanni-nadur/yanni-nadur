@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/anime_asset.gif" width="100%" alt="Cherry blossoms" />
+  <img src="./assets/anime_asset.gif" width="67%" alt="Cherry blossoms" />
   <br /><br /><br />
   <h1>Hey, I'm Yanni 👋</h1>
   <p><strong>Senior AI & Full Stack Engineer</strong> · São Paulo, Brazil 🇧🇷</p>
