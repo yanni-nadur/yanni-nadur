@@ -2,7 +2,7 @@
   <img src="./assets/anime_asset.gif" width="100%" alt="Cherry blossoms" />
   <br /><br /><br />
   <h1>Hey, I'm Yanni 👋</h1>
-  <p><strong>Full Stack Software Engineer</strong> · São Paulo, Brazil 🇧🇷</p>
+  <p><strong>Senior AI & Full Stack Engineer</strong> · São Paulo, Brazil 🇧🇷</p>
   <p><em>I build the parts people interact with, and the systems that make them work reliably.</em></p>
   <p>
     <a href="https://yanni-nadur.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-0E2931?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=7AE2E0" alt="Portfolio" /></a>
